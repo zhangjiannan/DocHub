@@ -15,5 +15,5 @@ Why do we care about sharing documents?
 
 Contact:
 
-Weipeng Kuang                     Jiannan Zhang
-creatorkuang@gmail.com            jn.zhang610@gmail.com
+Weipeng Kuang       creatorkuang@gmail.com                     
+Jiannan Zhang       jn.zhang610@gmail.com
