@@ -10,15 +10,7 @@ Why do we care about sharing documents?
 
 2. Recently we saw GitHub's Government document page, and people using GitHub to write books, also given the fact that we hope to build a platform for people to share challenges, and we organize Hackathons around different countries, e.g. CERN Webfest 2013, eXtreme Learning Process at Tsinghua University, and the need to get hackers and all sorts of people working together, we realized that the tool should be invented to support all these stuff.
 
-here is the test.....
-
-creatorkuang pull request test here
-
-Jiannan's test here
-
-second pull request
-
 Contact:
 
-test change an eamil                   
-Jiannan Zhang       jn.zhang610@gmail.com
+Weipeng Kuang                       
+Jiannan Zhang
