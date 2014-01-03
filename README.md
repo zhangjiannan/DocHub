@@ -1,9 +1,8 @@
-
 DocHub!
 
-DocHub is a new version control tool for document management and sharing, given the fact that GitHut is popular in code version control but complicated in its workflow, and is partially blocked in China.
+DocHub is a new version control tool for document management and sharing, given the fact that Github is popular in code version control but complicated in its workflow, and is partially blocked in China.
 
-Google doc is of course an alternative, however it has less functionalities for version control, comparision, etc. Also it is totally blocked in China.
+Google doc is of course an alternative, however it has less functionalities for version control, branching, etc. Also it is totally blocked in China.
 
 Why do we care about sharing documents?
 
