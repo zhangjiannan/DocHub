@@ -14,8 +14,9 @@ here is the test.....
 
 again here is also the test
 
+Jiannan's test here
 
 Contact:
 
-test change the eamil                   
+test change an eamil                   
 Jiannan Zhang       jn.zhang610@gmail.com
